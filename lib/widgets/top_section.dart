@@ -49,6 +49,8 @@ class TopSection extends StatelessWidget {
                   height: 25,
                   color: Colors.white,
 
+                  //coloring
+
                 ),
             ],
           ),
