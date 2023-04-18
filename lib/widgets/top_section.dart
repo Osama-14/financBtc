@@ -42,6 +42,14 @@ class TopSection extends StatelessWidget {
                 width: 25,
                 color: Colors.white,
                 ),
+                SizedBox(width: 20),
+                Image.asset(
+                  "assets/images/bell.png",
+                  width: 25,
+                  height: 25,
+                  color: Colors.white,
+
+                ),
             ],
           ),
 
