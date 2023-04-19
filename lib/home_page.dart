@@ -1,3 +1,4 @@
+import 'package:financeapp/widgets/contact_section.dart';
 import 'package:financeapp/widgets/top_section.dart';
 import 'package:flutter/material.dart';
 import 'package:financeapp/colors.dart' as color;
@@ -26,7 +27,7 @@ class HomePage extends StatelessWidget {
         child: Column(
           children: [
             TopSection(),
-            //ContactSection(),
+            ContactSection(),
           SizedBox(height: 20),
           //ActionSection(),
           SizedBox(height: 20),
